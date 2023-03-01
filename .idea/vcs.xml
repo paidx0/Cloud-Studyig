@@ -2,9 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/CloudStudying" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/base" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/content" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/content/api" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/content/model" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/content/service" vcs="Git" />
