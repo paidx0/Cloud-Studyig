@@ -1,0 +1,104 @@
+2023-03-10 01:00:05,783 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-03-10 01:00:05,783 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-03-10 01:00:05,790 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-03-10 01:00:05,790 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-03-10 01:00:35,795 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-03-10 01:00:35,795 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-03-10 01:00:35,796 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-03-10 01:00:35,796 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-03-10 01:01:05,801 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-03-10 01:01:05,801 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-03-10 01:01:05,801 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-03-10 01:01:05,801 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-03-10 01:01:35,806 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-03-10 01:01:35,806 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-03-10 01:01:35,807 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-03-10 01:01:35,807 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-03-10 01:02:05,811 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-03-10 01:02:05,811 DEBUG [HikariPool-1 housekeeper][HikariPool.java:421] - HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2023-03-10 01:02:05,811 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-03-10 01:02:05,811 DEBUG [HikariPool-1 housekeeper][HikariPool.java:517] - HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+2023-03-10 01:02:19,401 DEBUG [SpringContextShutdownHook][DefaultClientResources.java:631] - Initiate shutdown (0, 2, SECONDS)
+2023-03-10 01:02:19,401 DEBUG [SpringContextShutdownHook][DefaultClientResources.java:631] - Initiate shutdown (0, 2, SECONDS)
+2023-03-10 01:02:19,403 DEBUG [SpringContextShutdownHook][DefaultEventLoopGroupProvider.java:263] - Initiate shutdown (0, 2, SECONDS)
+2023-03-10 01:02:19,403 DEBUG [SpringContextShutdownHook][DefaultEventLoopGroupProvider.java:263] - Initiate shutdown (0, 2, SECONDS)
+2023-03-10 01:02:19,408 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+2023-03-10 01:02:19,408 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+2023-03-10 01:02:19,429 DEBUG [redisson-netty-2-18][PoolThreadCache.java:224] - Freed 2 thread-local buffer(s) from thread: redisson-netty-2-18
+2023-03-10 01:02:19,429 DEBUG [redisson-netty-2-23][PoolThreadCache.java:224] - Freed 4 thread-local buffer(s) from thread: redisson-netty-2-23
+2023-03-10 01:02:19,429 DEBUG [redisson-netty-2-25][PoolThreadCache.java:224] - Freed 2 thread-local buffer(s) from thread: redisson-netty-2-25
+2023-03-10 01:02:19,429 DEBUG [redisson-netty-2-14][PoolThreadCache.java:224] - Freed 2 thread-local buffer(s) from thread: redisson-netty-2-14
+2023-03-10 01:02:19,428 DEBUG [redisson-netty-2-24][PoolThreadCache.java:224] - Freed 2 thread-local buffer(s) from thread: redisson-netty-2-24
+2023-03-10 01:02:19,429 DEBUG [redisson-netty-2-17][PoolThreadCache.java:224] - Freed 2 thread-local buffer(s) from thread: redisson-netty-2-17
+2023-03-10 01:02:19,429 DEBUG [redisson-netty-2-21][PoolThreadCache.java:224] - Freed 2 thread-local buffer(s) from thread: redisson-netty-2-21
+2023-03-10 01:02:19,429 DEBUG [redisson-netty-2-11][PoolThreadCache.java:224] - Freed 2 thread-local buffer(s) from thread: redisson-netty-2-11
+2023-03-10 01:02:19,429 DEBUG [redisson-netty-2-19][PoolThreadCache.java:224] - Freed 2 thread-local buffer(s) from thread: redisson-netty-2-19
+2023-03-10 01:02:19,429 DEBUG [redisson-netty-2-7][PoolThreadCache.java:224] - Freed 2 thread-local buffer(s) from thread: redisson-netty-2-7
+2023-03-10 01:02:19,428 DEBUG [redisson-netty-2-27][PoolThreadCache.java:224] - Freed 2 thread-local buffer(s) from thread: redisson-netty-2-27
+2023-03-10 01:02:19,429 DEBUG [redisson-netty-2-6][PoolThreadCache.java:224] - Freed 2 thread-local buffer(s) from thread: redisson-netty-2-6
+2023-03-10 01:02:19,429 DEBUG [redisson-netty-2-10][PoolThreadCache.java:224] - Freed 2 thread-local buffer(s) from thread: redisson-netty-2-10
+2023-03-10 01:02:19,429 DEBUG [redisson-netty-2-15][PoolThreadCache.java:224] - Freed 2 thread-local buffer(s) from thread: redisson-netty-2-15
+2023-03-10 01:02:19,429 DEBUG [redisson-netty-2-3][PoolThreadCache.java:224] - Freed 2 thread-local buffer(s) from thread: redisson-netty-2-3
+2023-03-10 01:02:19,429 DEBUG [redisson-netty-2-13][PoolThreadCache.java:224] - Freed 2 thread-local buffer(s) from thread: redisson-netty-2-13
+2023-03-10 01:02:19,429 DEBUG [redisson-netty-2-9][PoolThreadCache.java:224] - Freed 2 thread-local buffer(s) from thread: redisson-netty-2-9
+2023-03-10 01:02:19,428 DEBUG [redisson-netty-2-27][PoolThreadCache.java:224] - Freed 2 thread-local buffer(s) from thread: redisson-netty-2-27
+2023-03-10 01:02:19,429 DEBUG [redisson-netty-2-18][PoolThreadCache.java:224] - Freed 2 thread-local buffer(s) from thread: redisson-netty-2-18
+2023-03-10 01:02:19,429 DEBUG [redisson-netty-2-23][PoolThreadCache.java:224] - Freed 4 thread-local buffer(s) from thread: redisson-netty-2-23
+2023-03-10 01:02:19,429 DEBUG [redisson-netty-2-15][PoolThreadCache.java:224] - Freed 2 thread-local buffer(s) from thread: redisson-netty-2-15
+2023-03-10 01:02:19,428 DEBUG [redisson-netty-2-24][PoolThreadCache.java:224] - Freed 2 thread-local buffer(s) from thread: redisson-netty-2-24
+2023-03-10 01:02:19,429 DEBUG [redisson-netty-2-25][PoolThreadCache.java:224] - Freed 2 thread-local buffer(s) from thread: redisson-netty-2-25
+2023-03-10 01:02:19,429 DEBUG [redisson-netty-2-14][PoolThreadCache.java:224] - Freed 2 thread-local buffer(s) from thread: redisson-netty-2-14
+2023-03-10 01:02:19,430 DEBUG [redisson-netty-2-5][PoolThreadCache.java:224] - Freed 2 thread-local buffer(s) from thread: redisson-netty-2-5
+2023-03-10 01:02:19,429 DEBUG [redisson-netty-2-8][PoolThreadCache.java:224] - Freed 2 thread-local buffer(s) from thread: redisson-netty-2-8
+2023-03-10 01:02:19,429 DEBUG [redisson-netty-2-4][PoolThreadCache.java:224] - Freed 2 thread-local buffer(s) from thread: redisson-netty-2-4
+2023-03-10 01:02:19,429 DEBUG [redisson-netty-2-16][PoolThreadCache.java:224] - Freed 2 thread-local buffer(s) from thread: redisson-netty-2-16
+2023-03-10 01:02:19,430 DEBUG [redisson-netty-2-20][PoolThreadCache.java:224] - Freed 2 thread-local buffer(s) from thread: redisson-netty-2-20
+2023-03-10 01:02:19,430 DEBUG [redisson-netty-2-12][PoolThreadCache.java:224] - Freed 2 thread-local buffer(s) from thread: redisson-netty-2-12
+2023-03-10 01:02:19,429 DEBUG [redisson-netty-2-17][PoolThreadCache.java:224] - Freed 2 thread-local buffer(s) from thread: redisson-netty-2-17
+2023-03-10 01:02:19,429 DEBUG [redisson-netty-2-9][PoolThreadCache.java:224] - Freed 2 thread-local buffer(s) from thread: redisson-netty-2-9
+2023-03-10 01:02:19,430 DEBUG [redisson-netty-2-22][PoolThreadCache.java:224] - Freed 2 thread-local buffer(s) from thread: redisson-netty-2-22
+2023-03-10 01:02:19,429 DEBUG [redisson-netty-2-3][PoolThreadCache.java:224] - Freed 2 thread-local buffer(s) from thread: redisson-netty-2-3
+2023-03-10 01:02:19,429 DEBUG [redisson-netty-2-21][PoolThreadCache.java:224] - Freed 2 thread-local buffer(s) from thread: redisson-netty-2-21
+2023-03-10 01:02:19,430 DEBUG [redisson-netty-2-26][PoolThreadCache.java:224] - Freed 2 thread-local buffer(s) from thread: redisson-netty-2-26
+2023-03-10 01:02:19,429 DEBUG [redisson-netty-2-11][PoolThreadCache.java:224] - Freed 2 thread-local buffer(s) from thread: redisson-netty-2-11
+2023-03-10 01:02:19,429 DEBUG [redisson-netty-2-19][PoolThreadCache.java:224] - Freed 2 thread-local buffer(s) from thread: redisson-netty-2-19
+2023-03-10 01:02:19,429 DEBUG [redisson-netty-2-7][PoolThreadCache.java:224] - Freed 2 thread-local buffer(s) from thread: redisson-netty-2-7
+2023-03-10 01:02:19,429 DEBUG [redisson-netty-2-6][PoolThreadCache.java:224] - Freed 2 thread-local buffer(s) from thread: redisson-netty-2-6
+2023-03-10 01:02:19,429 DEBUG [redisson-netty-2-16][PoolThreadCache.java:224] - Freed 2 thread-local buffer(s) from thread: redisson-netty-2-16
+2023-03-10 01:02:19,429 DEBUG [redisson-netty-2-8][PoolThreadCache.java:224] - Freed 2 thread-local buffer(s) from thread: redisson-netty-2-8
+2023-03-10 01:02:19,429 DEBUG [redisson-netty-2-10][PoolThreadCache.java:224] - Freed 2 thread-local buffer(s) from thread: redisson-netty-2-10
+2023-03-10 01:02:19,429 DEBUG [redisson-netty-2-4][PoolThreadCache.java:224] - Freed 2 thread-local buffer(s) from thread: redisson-netty-2-4
+2023-03-10 01:02:19,430 DEBUG [redisson-netty-2-12][PoolThreadCache.java:224] - Freed 2 thread-local buffer(s) from thread: redisson-netty-2-12
+2023-03-10 01:02:19,429 DEBUG [redisson-netty-2-13][PoolThreadCache.java:224] - Freed 2 thread-local buffer(s) from thread: redisson-netty-2-13
+2023-03-10 01:02:19,430 DEBUG [redisson-netty-2-5][PoolThreadCache.java:224] - Freed 2 thread-local buffer(s) from thread: redisson-netty-2-5
+2023-03-10 01:02:19,430 DEBUG [redisson-netty-2-22][PoolThreadCache.java:224] - Freed 2 thread-local buffer(s) from thread: redisson-netty-2-22
+2023-03-10 01:02:19,430 DEBUG [redisson-netty-2-20][PoolThreadCache.java:224] - Freed 2 thread-local buffer(s) from thread: redisson-netty-2-20
+2023-03-10 01:02:19,430 DEBUG [redisson-netty-2-26][PoolThreadCache.java:224] - Freed 2 thread-local buffer(s) from thread: redisson-netty-2-26
+2023-03-10 01:02:19,433 INFO [SpringContextShutdownHook][HikariDataSource.java:350] - HikariPool-1 - Shutdown initiated...
+2023-03-10 01:02:19,433 INFO [SpringContextShutdownHook][HikariDataSource.java:350] - HikariPool-1 - Shutdown initiated...
+2023-03-10 01:02:19,433 DEBUG [SpringContextShutdownHook][HikariPool.java:421] - HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0)
+2023-03-10 01:02:19,433 DEBUG [SpringContextShutdownHook][HikariPool.java:421] - HikariPool-1 - Before shutdown stats (total=10, active=0, idle=10, waiting=0)
+2023-03-10 01:02:19,434 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@7f26322b: (connection evicted)
+2023-03-10 01:02:19,434 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@7f26322b: (connection evicted)
+2023-03-10 01:02:19,437 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@53511c6d: (connection evicted)
+2023-03-10 01:02:19,437 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@53511c6d: (connection evicted)
+2023-03-10 01:02:19,438 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@126c1656: (connection evicted)
+2023-03-10 01:02:19,438 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@126c1656: (connection evicted)
+2023-03-10 01:02:19,439 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@6f81e4: (connection evicted)
+2023-03-10 01:02:19,439 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@6f81e4: (connection evicted)
+2023-03-10 01:02:19,440 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@60fdad12: (connection evicted)
+2023-03-10 01:02:19,440 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@60fdad12: (connection evicted)
+2023-03-10 01:02:19,441 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@1b6bcebe: (connection evicted)
+2023-03-10 01:02:19,441 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@1b6bcebe: (connection evicted)
+2023-03-10 01:02:19,442 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@7b954105: (connection evicted)
+2023-03-10 01:02:19,442 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@7b954105: (connection evicted)
+2023-03-10 01:02:19,442 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@29994440: (connection evicted)
+2023-03-10 01:02:19,442 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@29994440: (connection evicted)
+2023-03-10 01:02:19,443 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@357e3adf: (connection evicted)
+2023-03-10 01:02:19,443 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@357e3adf: (connection evicted)
+2023-03-10 01:02:19,443 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@35ffcdd: (connection evicted)
+2023-03-10 01:02:19,443 DEBUG [HikariPool-1 connection closer][PoolBase.java:134] - HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@35ffcdd: (connection evicted)
+2023-03-10 01:02:19,444 DEBUG [SpringContextShutdownHook][HikariPool.java:421] - HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0)
+2023-03-10 01:02:19,444 DEBUG [SpringContextShutdownHook][HikariPool.java:421] - HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0)
+2023-03-10 01:02:19,444 INFO [SpringContextShutdownHook][HikariDataSource.java:352] - HikariPool-1 - Shutdown completed.
+2023-03-10 01:02:19,444 INFO [SpringContextShutdownHook][HikariDataSource.java:352] - HikariPool-1 - Shutdown completed.
